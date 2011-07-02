@@ -1,12 +1,9 @@
 check_permissions.py [path] [username]
 
-Check is _path_ is accessible by _user_
+Check is _path_ is accessible by _user_. If not, highlight which permissions are conflicting.
 
-If not, highlight which permissions are conflicting
-
-_Path_ defaults to current working directory
-
-_User_ defaults to current user
+* _Path_ defaults to current working directory
+* _User_ defaults to current user
 
 ---------------------
 
