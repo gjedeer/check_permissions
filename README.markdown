@@ -16,4 +16,4 @@ check_permissions.py
 The tool will highlight in red permissions that matter
 and should be fixed. 
 
-[[screenshot]]()
+[[screenshot]](https://github.com/gjedeer/check_permissions/raw/master/screen.png)
