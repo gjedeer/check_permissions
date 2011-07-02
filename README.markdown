@@ -8,8 +8,8 @@ Check is _path_ is accessible by _user_. If not, highlight which permissions are
 ---------------------
 
 Users have so many interesting theories about how UNIX permissions work it's hard to 
-believe. What they can do with making permissions wrong
-is simply incredible. That's why I needed a simple tool
+believe. The number of ways they are making permissions wrong
+is somewhere near one bazillion. That's why I needed a simple tool
 to make fixing permissions easier. Welcome to 
 check_permissions.py
 
