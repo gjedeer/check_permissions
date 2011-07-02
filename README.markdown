@@ -7,7 +7,7 @@ Check is _path_ is accessible by _user_. If not, highlight which permissions are
 
 ---------------------
 
-Users have so many interesting theories about how UNIX permissions it's hard to 
+Users have so many interesting theories about how UNIX permissions work it's hard to 
 believe. What they can do with making permissions wrong
 is simply incredible. That's why I needed a simple tool
 to make fixing permissions easier. Welcome to 
