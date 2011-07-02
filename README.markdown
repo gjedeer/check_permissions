@@ -1,13 +1,16 @@
 check_permissions.py [path] [username]
 
 Check is <path> is accessible by <user>
+
 If not, highlight which permissions are conflicting
+
 Path defaults to current working directory
+
 User defaults to current user
 
 ---------------------
 
-Users have so many interesting theories it's hard to 
+Users have so many interesting theories about how UNIX permissions it's hard to 
 believe. What they can do with making permissions wrong
 is simply incredible. That's why I needed a simple tool
 to make fixing permissions easier. Welcome to 
